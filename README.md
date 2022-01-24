@@ -103,3 +103,4 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 ## Other Resource Lists
 
 * [RogueGuineaPig's "Start Here"](https://www.reddit.com/r/killteam/comments/pl30y4/new_to_kill_team_maybe_start_here/).
+* [Kill Team subreddit wiki](https://www.reddit.com/r/killteam/wiki/index).
