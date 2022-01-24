@@ -42,7 +42,7 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 
 ## Buying Guides
 
-* TODO: that spreadsheet from reddit of minimal and "good" roster costs for factions.
+* [Kill Team 21 Team Costs](https://docs.google.com/spreadsheets/d/1FyS0Z4h1s2IicJ-riH696Sf58-DYIzz0-qf7YPlZ2GI) and its [reddit thread](https://www.reddit.com/r/killteam/comments/py9hz4/kt_min_team_costs_by_faction_updated_with_gbp/) ([older thread](https://www.reddit.com/r/killteam/comments/pafol0/how_much_does_it_cost_to_get_into_kt21_version_11/)).
 
 ## Gameplay Assistance
 
@@ -99,3 +99,7 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 * [Can You Roll A Crit](https://www.youtube.com/c/CanYouRollaCrit).  Editorials and battle reports.  [Won a Warhammer World Kill Team tournament](https://canyourollacrit.com/2021/10/28/warhammer-world-kill-team-october-2021-event-review/).
 * [GFN Gaming](https://www.youtube.com/c/GFNGaming).  Often praised for high-quality battle reports.
 * [Battle Brothers Tabletop](https://www.youtube.com/channel/UCsGpI8Wp6rrHEewoWELV0jg).  Instructionals and editorials.
+
+## Other Resource Lists
+
+* [RogueGuineaPig's "Start Here"](https://www.reddit.com/r/killteam/comments/pl30y4/new_to_kill_team_maybe_start_here/).
