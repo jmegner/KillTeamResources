@@ -1,6 +1,9 @@
 # Kill Team Resources
-A list of resources for Kill Team (2021 edition, under the Warhammer 40k franchise)
+A list of resources for Kill Team (2021 edition, under the Warhammer 40k franchise).
 
+Suggestions/additions are welcome.  You can comment on the [announcement reddit thread](https://www.reddit.com/r/killteam/comments/sbw0vw/kill_team_resources_list/), make a [GitHub issue](https://github.com/jmegner/KillTeamResources/issues), or make a [GitHub pull request](https://github.com/jmegner/KillTeamResources/pulls).
+
+Right now, I'm especially interested in this list becoming useful for someone who wants to play via Tabletop Simulator (TTS) and needs to know what are the best mods for maps, models, and little helpers that make gameplay more convenient.
 
 ## Rules And Factions, For Human Consumption
 
