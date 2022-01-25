@@ -10,8 +10,8 @@ A list of resources for Kill Team (2021 edition, under the Warhammer 40k franchi
 
 ## Rules And Factions, For Programmatic Consumption
 
-* [killteamjson](https://github.com/vjosset/killteamjson) has compendium faction info in json form.
-* [BattleScribeData Kill Team](https://github.com/BSData/wh40k-killteam) repo.
+* [killteamjson](https://github.com/vjosset/killteamjson) has faction info in json form.  The readme and file names suggest compendium factions only, but I can see commits for non-compendium factions.
+* [BattleScribeData Kill Team](https://github.com/BSData/wh40k-killteam) repo.  Official data source for BattleScribe.  XML format.
 
 
 ## Calculators and Simulators
@@ -100,6 +100,15 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 * [Can You Roll A Crit](https://www.youtube.com/c/CanYouRollaCrit).  Editorials and battle reports.  [Won a Warhammer World Kill Team tournament](https://canyourollacrit.com/2021/10/28/warhammer-world-kill-team-october-2021-event-review/).
 * [GFN Gaming](https://www.youtube.com/c/GFNGaming).  Often praised for high-quality battle reports.
 * [Battle Brothers Tabletop](https://www.youtube.com/channel/UCsGpI8Wp6rrHEewoWELV0jg).  Instructionals and editorials.
+
+## Tournaments
+
+I won't list individual tournaments.  I will list recurring tournaments and places that keep track of tournaments.
+
+In-person tournaments
+* Todo
+TTS (Tabletop Simulator) tournaments
+* Todo 
 
 ## Other Resource Lists
 
