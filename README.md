@@ -79,11 +79,11 @@ I'd love to improve this part so I can have a sublist where I can confidently sa
 
 * [Glass Half Dead](https://discord.gg/cdF3AnRVRG).
   * Has "killteam-maths" channel that other servers don't seem to have an analogue.  
-* [The Killzone](https://discord.gg/HuKvyEeyuH).
 * [Command Point](https://discord.gg/7U49SugEPg).
-  * Possibly the most TTS-oriented.
-* [Kill Team](https://discord.com/invite/MxNz8fb).
+  * Possibly the most active TTS community.
+* [The Killzone](https://discord.gg/HuKvyEeyuH).
 * [Kill Team University](https://discord.com/invite/zetHGyJV3j).
+* [Kill Team](https://discord.com/invite/MxNz8fb).
 
 ## Websites And Blogs
 
