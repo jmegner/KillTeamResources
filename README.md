@@ -60,13 +60,16 @@ I'd love to improve this part so I can have a sublist where I can confidently sa
 * Reminder: the Kill Team TTS community seems to be most active on Kill Team Discord servers, perhaps [Command Point](https://discord.gg/7U49SugEPg) being the most active one.
 * Guides
   * From before KT2021: [TTS Tutorial for Kill Team and WH40K](https://www.youtube.com/watch?v=eXdofSlE4jQ) youtube video.
-* Maps And Tournament Packs
+* TTS Mods, Maps And Tournament Packs
     * [KT Map Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2577079549).  List of maps, including [KT Map Base Table](https://steamcommunity.com/sharedfiles/filedetails/?id=2574389665).
-* Operatives/Teams
-  * [All Kill Teams In Boxes](https://steamcommunity.com/sharedfiles/filedetails/?id=2699529917) with 18 pictured boxes.
-* Utilities/Misc
-  * [KT Command Node](https://steamcommunity.com/sharedfiles/filedetails/?id=2614731381).
+* TTS Mods, Factions/Teams/Operatives
+  * [All Kill Teams In Boxes](https://steamcommunity.com/sharedfiles/filedetails/?id=2699529917) with 18 pictured boxes but maybe there's 20+ factions ([older faction mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2646420609)?).
+* TTS Mods, Utilities/Misc
+  * [KT Command Node](https://steamcommunity.com/sharedfiles/filedetails/?id=2614731381) and [KT Command Node UI Extender](https://steamcommunity.com/sharedfiles/filedetails/?id=2722788048).
   * [Kill Team HUD (Orders And HP Tracker)](https://steamcommunity.com/sharedfiles/filedetails/?id=2603448117).
+* TTS Mods, Notable Authors/Creators
+  * [MoonkeyMod](https://steamcommunity.com/id/moonkey2010/myworkshopfiles) mods.  Maps and utilities.
+  * [Ace](https://steamcommunity.com/id/MFGDalas/myworkshopfiles/) mods.  Maps and factions.
 * Discord channels for TTS resources
   * Command Point [#tts-tools-and-tournament-packets](https://discord.com/channels/693216170194501704/706513732658003971).
   * The Killzone [#tts-getting-started](https://discord.com/channels/632812643912253450/889632529617944576).
