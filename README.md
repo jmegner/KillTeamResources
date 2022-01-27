@@ -61,10 +61,12 @@ I'd love to improve this part so I can have a sublist where I can confidently sa
 * Guides
   * From before KT2021: [TTS Tutorial for Kill Team and WH40K](https://www.youtube.com/watch?v=eXdofSlE4jQ) youtube video.
 * Maps And Tournament Packs
-    * [KT Map Base Table](https://steamcommunity.com/sharedfiles/filedetails/?id=2574389665).
-    * [KT Map Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2577079549).
+    * [KT Map Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2577079549).  List of maps, including [KT Map Base Table](https://steamcommunity.com/sharedfiles/filedetails/?id=2574389665).
+* Operatives/Teams
+  * [All Kill Teams In Boxes](https://steamcommunity.com/sharedfiles/filedetails/?id=2699529917) with 18 pictured boxes.
 * Utilities/Misc
-  * [KT Command Node](https://steamcommunity.com/sharedfiles/filedetails/?id=2614731381)
+  * [KT Command Node](https://steamcommunity.com/sharedfiles/filedetails/?id=2614731381).
+  * [Kill Team HUD (Orders And HP Tracker)](https://steamcommunity.com/sharedfiles/filedetails/?id=2603448117).
 * Discord channels for TTS resources
   * Command Point [#tts-tools-and-tournament-packets](https://discord.com/channels/693216170194501704/706513732658003971).
   * The Killzone [#tts-getting-started](https://discord.com/channels/632812643912253450/889632529617944576).
