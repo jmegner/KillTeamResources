@@ -103,6 +103,7 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 * [Can You Roll A Crit](https://www.youtube.com/c/CanYouRollaCrit).  Editorials and battle reports.  [Won a Warhammer World Kill Team tournament](https://canyourollacrit.com/2021/10/28/warhammer-world-kill-team-october-2021-event-review/).
 * [GFN Gaming](https://www.youtube.com/c/GFNGaming).  Often praised for high-quality battle reports.
 * [Battle Brothers Tabletop](https://www.youtube.com/channel/UCsGpI8Wp6rrHEewoWELV0jg).  Instructionals and editorials.
+* [3's To Wound](https://www.youtube.com/c/3StoWound).  Commentary/editorials and battle reports.
 
 ## Tournaments
 
