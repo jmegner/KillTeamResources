@@ -32,8 +32,8 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 ## Cheatsheets and Reference Sheets
 
 * [XT's Ultimate KT Doc](https://docs.google.com/document/d/1wAl4sNYcqybYCYANLbLFYbXuvRfp1PNPGlzr_YGWvtY).  Nice faction cheatsheets.  Has links to other resources.
-* [ChronoDK Rules Reference Sheet](https://drive.google.com/file/d/1kgToAvu_TXRmAQIA1kkdLKih4rCJOE6u).
-* [Armagonix Rules Reference Sheet](https://www.reddit.com/r/killteam/comments/pck4o4/after_some_playtesting_i_have_improved_my_kt21/).
+* [ChronoDK Rules Reference Sheet](https://drive.google.com/file/d/1kgToAvu_TXRmAQIA1kkdLKih4rCJOE6u). Rules one-pager.
+* [Armagonix Rules Reference Sheet](https://www.reddit.com/r/killteam/comments/pck4o4/after_some_playtesting_i_have_improved_my_kt21/).  Rules one-pager.
 
 ## Roster Building And Data Card Generation
 
@@ -54,13 +54,17 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 
 ## Tabletop Simulator (TTS)
 
+I'd love to improve this part so I can have a sublist where I can confidently say "this is all you need to play KT on TTS".
+
 * [Tabletop Simulator](https://www.tabletopsimulator.com/) website.
-* Reminder: the Kill Team TTS community seems to be most active on Kill Team Discord servers.
+* Reminder: the Kill Team TTS community seems to be most active on Kill Team Discord servers, perhaps [Command Point](https://discord.gg/7U49SugEPg) being the most active one.
+* Guides
+  * From before KT2021: [TTS Tutorial for Kill Team and WH40K](https://www.youtube.com/watch?v=eXdofSlE4jQ) youtube video.
 * Maps And Tournament Packs
-  * [Kill Team Championships 2021](https://steamcommunity.com/sharedfiles/filedetails/?id=2421890757)
-  * [KT Map Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2577079549)
+    * [KT Map Base Table](https://steamcommunity.com/sharedfiles/filedetails/?id=2574389665).
+    * [KT Map Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2577079549).
 * Utilities/Misc
-  * [KT Command Node](KT Command Node)
+  * [KT Command Node](https://steamcommunity.com/sharedfiles/filedetails/?id=2614731381)
 * Discord channels for TTS resources
   * Command Point [#tts-tools-and-tournament-packets](https://discord.com/channels/693216170194501704/706513732658003971).
   * The Killzone [#tts-getting-started](https://discord.com/channels/632812643912253450/889632529617944576).
@@ -119,3 +123,4 @@ TTS (Tabletop Simulator) tournaments
 * [RogueGuineaPig's "Start Here"](https://www.reddit.com/r/killteam/comments/pl30y4/new_to_kill_team_maybe_start_here/).
 * [Kill Team subreddit wiki](https://www.reddit.com/r/killteam/wiki/index).
 * [TCRepo Kill Team Links](https://tcrepo.com/kill-team-links/).
+* [XT's Ultimate KT Doc](https://docs.google.com/document/d/1wAl4sNYcqybYCYANLbLFYbXuvRfp1PNPGlzr_YGWvtY).  Nice faction cheatsheets.  Has links to other resources.
