@@ -7,14 +7,14 @@ Right now, I'm especially interested in this list becoming useful for someone wh
 
 ## Rules And Factions, For Human Consumption
 
-* [Wahapedia](https://wahapedia.ru/kill-team2/the-rules/introduction/).
+* [Wahapedia](https://wahapedia.ru/kill-team2/the-rules/introduction/) web site.  The best resource for rules and team info.  Very nice layout, linking, and hover-info-boxes.
 * [ktdash](https://ktdash.app/killteam.htm) web app.
 
 
 ## Rules And Factions, For Programmatic Consumption
 
-* [killteamjson](https://github.com/vjosset/killteamjson) has faction info in json form.  The readme and file names suggest compendium factions only, but I can see commits for non-compendium factions.
 * [BattleScribeData Kill Team](https://github.com/BSData/wh40k-killteam) repo.  Official data source for BattleScribe.  XML format.
+* [killteamjson](https://github.com/vjosset/killteamjson) has faction info in json form.  The readme and file names suggest compendium factions only, but I can see commits for non-compendium factions.
 
 
 ## Calculators and Simulators
@@ -24,10 +24,10 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 * [ktcalc/KT21Calculator](https://jmegner.github.io/KT21Calculator/) web app ([source](https://github.com/jmegner/KT21Calculator)).  Uses exact math to calculate outcome probabilities of shooting and fighting attacks.
 * [ktsim/KillTeamSimulator2](http://kt2.doit-cms.ru/) web app ([simulation source](https://github.com/ramainen/godicepool).  Monte Carlo simulator for shooting and fighting attacks.
 * [ktcomp/KillTeamComparativeSimulator](https://denampavel.shinyapps.io/KTSim/) web app ([source](https://github.com/DenamPavel/KillTeamSim)).  Monte Carlo simulator for comparing shooting attacks of two different attackers against a common defender.
-* Spreadsheets with significant inaccuracies
-  * [KT21](https://docs.google.com/spreadsheets/d/1Sa76-kNCVpLe0sLMEryo7l7QdZZOBqOrkhnENj55Mtc).
-  * [Weapon Comparison X To Kill](https://docs.google.com/spreadsheets/d/1heVsyiowkdlBobygPURhX3d-WCSSyXbB).
-  * [KillTeam Weapon MathHammer V1.0](https://docs.google.com/spreadsheets/d/1JJQqxJJf6riibwFHasEjliEhitLuKQiGWUBYZ-lR4io/edit#gid=1040039477)
+* Spreadsheets (often with significant inaccuracies, especially for shooting damage)
+  * [KT21](https://docs.google.com/spreadsheets/d/1Sa76-kNCVpLe0sLMEryo7l7QdZZOBqOrkhnENj55Mtc).  Rough estimates of how weapons do against various Sv values.
+  * [Weapon Comparison X To Kill](https://docs.google.com/spreadsheets/d/1heVsyiowkdlBobygPURhX3d-WCSSyXbB).  Incomplete.  Chances to kill in 1 or 2 hits during a fighting attack.
+  * [KillTeam Weapon MathHammer V1.0](https://docs.google.com/spreadsheets/d/1JJQqxJJf6riibwFHasEjliEhitLuKQiGWUBYZ-lR4io/edit#gid=1040039477).  Lots of entries for various operatives, but pretty inaccurate (calculated average damage can be ~30% of actual average damage).
 
 ## Cheatsheets and Reference Sheets
 
