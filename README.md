@@ -62,6 +62,7 @@ I'd love to improve this part so I can have a sublist where I can confidently sa
   * From before KT2021: [TTS Tutorial for Kill Team and WH40K](https://www.youtube.com/watch?v=eXdofSlE4jQ) youtube video.
 * TTS Mods, Maps And Tournament Packs
     * [KT Map Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2577079549).  List of maps, including [KT Map Base Table](https://steamcommunity.com/sharedfiles/filedetails/?id=2574389665).
+    * [Kill Team Championships 2022 Map Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2704352000).
 * TTS Mods, Factions/Teams/Operatives
   * [All Kill Teams In Boxes](https://steamcommunity.com/sharedfiles/filedetails/?id=2699529917) with 18 pictured boxes but maybe there's 20+ factions ([older faction mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2646420609)?).  The models are possibly "already scripted with KT Command Node".
 * TTS Mods, Utilities/Misc
