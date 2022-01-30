@@ -65,6 +65,7 @@ I'd love to improve this part so I can have a sublist where I can confidently sa
     * [Kill Team Championships 2022 Map Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2704352000).
 * TTS Mods, Factions/Teams/Operatives
   * [All Kill Teams In Boxes](https://steamcommunity.com/sharedfiles/filedetails/?id=2699529917) with 18 pictured boxes but maybe there's 20+ factions ([older faction mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2646420609)?).  The models are possibly "already scripted with KT Command Node".
+  * [KT2 Pathfinder Kill Team](https://steamcommunity.com/sharedfiles/filedetails/?id=2736837891).  Description says it also contains Stealth Suits.
 * TTS Mods, Utilities/Misc
   * [KT Command Node](https://steamcommunity.com/sharedfiles/filedetails/?id=2614731381) and [KT Command Node UI Extender](https://steamcommunity.com/sharedfiles/filedetails/?id=2722788048).
   * [Kill Team HUD (Orders And HP Tracker)](https://steamcommunity.com/sharedfiles/filedetails/?id=2603448117).
