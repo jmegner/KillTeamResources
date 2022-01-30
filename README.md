@@ -113,6 +113,7 @@ I'd love to improve this part so I can have a sublist where I can confidently sa
 * [Can You Roll A Crit](https://www.youtube.com/c/CanYouRollaCrit).  Editorials and battle reports.  [Won a Warhammer World Kill Team tournament](https://canyourollacrit.com/2021/10/28/warhammer-world-kill-team-october-2021-event-review/).
 * [Command Point](https://www.youtube.com/c/CommandPoint). Commentary/editorials, tier lists, TTS tournament coverage.
 * [GFN Gaming](https://www.youtube.com/c/GFNGaming).  Often praised for high-quality battle reports.
+* [Beeranid40K](https://www.youtube.com/c/BEERANID40k).  Strategy/tactics oriented discussion.
 * [Battle Brothers Tabletop](https://www.youtube.com/channel/UCsGpI8Wp6rrHEewoWELV0jg).  Instructionals and editorials.
 * [3's To Wound](https://www.youtube.com/c/3StoWound).  Commentary/editorials and battle reports.
 * [Glacial Geek](https://www.youtube.com/c/TheGlacialGeek).  Also does WH40K.  Hobby side and battle reports.
