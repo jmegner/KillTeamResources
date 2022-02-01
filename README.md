@@ -8,7 +8,7 @@ Right now, I'm especially interested in this list becoming useful for someone wh
 ## Rules And Factions, For Human Consumption
 
 * [Wahapedia](https://wahapedia.ru/kill-team2/the-rules/introduction/) web site.  The best resource for rules and team info.  Very nice layout, linking, and hover-info-boxes.
-* [ktdash](https://ktdash.app/killteam.htm) web app.
+* [ktdash](https://ktdash.app/killteam.htm) web app.  Build rosters. Browse factions, killteams, and operatives. Run games with CP/VP/TP and wound trackers.
 
 
 ## Rules And Factions, For Programmatic Consumption
@@ -40,7 +40,7 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 * [BattleScribe](https://www.battlescribe.net/) app for desktop and mobile.  Build rosters.
 * [datacard/KT2021Datacards](https://datacard.app/) web app.  Turn BattleScribe rosters into printable datasheets.
 * [dataslate](https://dataslate.rocks/) web app.  Turn BattleScribe rosters into printable datasheets.
-* [ktdash](https://ktdash.app/killteam.htm) web app.  Build rosters and browse factions.
+* [ktdash](https://ktdash.app/killteam.htm) web app.  Build rosters. Browse factions, killteams, and operatives. Run games with CP/VP/TP and wound trackers.
 * [ktcg/KillTeamCardGenerator](https://ktcg.netlify.app/) web app ([source](https://github.com/magralol/ktcg)).  Make custom operative data cards.
 
 
@@ -51,6 +51,7 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 ## Gameplay Assistance
 
 * [kt-tac-ops](https://kt-tac-ops.com/) web app.  Randomly choose your tac ops for play.
+* [ktdash](https://ktdash.app/killteam.htm) web app.  Build rosters. Browse factions, killteams, and operatives. Run games with CP/VP/TP and wound trackers.
 
 ## Tabletop Simulator (TTS)
 
@@ -93,6 +94,7 @@ I'd love to improve this part so I can have a sublist where I can confidently sa
 * [Warhammer Community FAQs, Errata & Designer's Commentary](https://www.warhammer-community.com/faqs/#kill-team).
 * [Warhammer Community Articles](https://www.warhammer-community.com/en-us/kill-team/).
 * [Goonhammer](https://www.goonhammer.com/tag/kill-team/).
+  * [Attack Sequence article](https://www.goonhammer.com/hammer-of-math-kill-team-attack-sequence/) which has die outcome probability tables.
 * [Can You Roll A Crit](https://canyourollacrit.com/tag/kill-team/).
 * [Bad Theory Hammer](https://badtheoryhammer.blogspot.com/).
 
