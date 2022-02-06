@@ -98,6 +98,21 @@ When your operative takes damage (or is healed) you can click on the x/x wound m
 
 Speaking of tokens, you can now drop tokens from next to the terrain on to your model and it will float near their health and follow them around. To get rid of these tokens, just right click on them. Or maybe it's click on them. One of the two. You'll figure it out.
 
+## KT Map Base Features
+
+There are all sorts of things built into KT Map base: a scoreboard, ways to load missions and their objectives, showing and hiding deployment zones, tokens, dice rollers, and all sorts of good stuff. These will be added to this guide shortly. Thankfully, they are fairly self-explanitory, so just click on things that seem to make sense.
+
 ## Play the game!
 
 Now playing is a lot easier and faster. Thanks to all the awesome people who spend a lot of time and effort making these cool tools for us!
+
+When you are starting a game, you will follow these steps:
+
+1. Load up the `KT Map Base` table.
+2. Add some terrain via addative loading. There's a big collection of maps in the [./README.md](resources list) in this repo. When you bring in the terrain, there will be a green and red button to confirm (keep) or cancel (unload) it in case you bring in the wrong one or decide ro change your mind.
+3. Bring in a `KT UI Extender` for your team via addative loading.
+4. Load your kill team's `KT Command Node` saved object.
+5. Plop your models onto the UI Extender mat and press the `Extend KT UI` button.
+6. Play!
+
+If you are joining someone else's game, you can skip the first two steps. Have fun!
