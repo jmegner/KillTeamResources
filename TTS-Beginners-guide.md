@@ -1,6 +1,6 @@
 # Getting Started Guide
 
-Credit to **SensorLock** from the Command Point Discord for running me through this. Note that this guide was written by someone completely new to TTS (**Lumpy** on Command Point Discord), so it may contain extra steps, or there might be easier ways to accomplish things. This is how I was able to reproduce what I was shown so others can benefit.
+Credit to **SensorLock** from the Command Point Discord for running [me](https://github.com/veddermatic) through this. Note that this guide was written by someone completely new to TTS (**Lumpy** on Command Point Discord), so it may contain extra steps, or there might be easier ways to accomplish things. This is how I was able to reproduce what I was shown so others can benefit.
 
 By the end of this guide, you will have a kill team roster with all the models you need, and all the models on your roster will be set up with **KT Command Node** which makes playing a lot more streamlined. You will also get walked through using **KT UI Extender** which is something you'll use during games to make things even easier and faster while you play.
 
