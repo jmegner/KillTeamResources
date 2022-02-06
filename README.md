@@ -55,11 +55,11 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 
 ## Tabletop Simulator (TTS)
 
-I'd love to improve this part so I can have a sublist where I can confidently say "this is all you need to play KT on TTS".
+If you want to learn how to play Kill Team via TTS, then follow [this guide](TTS-Beginners-guide.md) rather than trying to piece things together from this resource list.
 
 * [Tabletop Simulator](https://www.tabletopsimulator.com/) website.
-* Reminder: the Kill Team TTS community seems to be most active on Kill Team Discord servers, perhaps [Command Point](https://discord.gg/7U49SugEPg) being the most active one.
 * Guides
+  * [TTS Kill Team Guide](TTS-Beginners-guide.md) is very helpful.  Contributed by [veddermatic](https://github.com/veddermatic).
   * From before KT2021: [TTS Tutorial for Kill Team and WH40K](https://www.youtube.com/watch?v=eXdofSlE4jQ) youtube video.
 * TTS Mods, Maps And Tournament Packs
     * [KT Map Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2577079549).  List of maps, including [KT Map Base Table](https://steamcommunity.com/sharedfiles/filedetails/?id=2574389665).
@@ -79,6 +79,8 @@ I'd love to improve this part so I can have a sublist where I can confidently sa
   * The Killzone [#maps-models-assets](https://discord.com/channels/632812643912253450/879091516289740840).
 
 ## Discord/Slack
+
+Discord servers have lots of discussion and collaboration and are the best way to find a TTS opponent to play with.
 
 * [Glass Half Dead](https://discord.gg/cdF3AnRVRG).
   * Has "killteam-maths" channel that other servers don't seem to have an analogue.  
