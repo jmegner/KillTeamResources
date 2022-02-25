@@ -124,6 +124,14 @@ Discord servers have lots of discussion and collaboration and are the best way t
 * [Glacial Geek](https://www.youtube.com/c/TheGlacialGeek).  Also does WH40K.  Hobby side and battle reports.
 * [Guerrilla Miniature Games](https://www.youtube.com/c/GuerrillaMiniatureGames) and its [Kill Team playlist](https://www.youtube.com/playlist?list=PLzrPO7KIAtwXCRg5uMZNrWVnOIwgWWhfi).  Hobby side and battle reports for many games.
 
+## Podcasts
+
+* [Vantage Point](https://getpodcast.com/de/podcast/vantage-point-kill-team-podcast) (by Glass Half Dead).
+* [Command Point](https://podcasts.apple.com/us/podcast/command-point/id1487392848).
+* [The Killzone Podcast](https://anchor.fm/killzonepodcast).
+* [Squad Tactica](Squad Tactica - A Warhammer 40K Kill Team Podcast).
+* [Chill Team](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGlsbHRlYW1wb2QubGlic3luLmNvbS9yc3M?sa=X&ved=2ahUKEwiYxZWrh5r2AhWnhWoFHXzsAf0Q4aUDegQIARAD).
+
 ## Tournaments
 
 I won't list individual tournaments.  I will list recurring tournaments and places that keep track of tournaments.
