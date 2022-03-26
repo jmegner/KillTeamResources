@@ -50,7 +50,7 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 
 ## Gameplay Assistance
 
-* [kt-tac-ops](https://kt-tac-ops.com/) web app.  Randomly choose your tac ops for play.
+* [kt-tac-ops](https://kt-tac-ops.com/) web app.  Randomly choose your tac ops for play.  You don't need to own the tac ops cards if you are happy with using this site.
 * [ktdash](https://ktdash.app/killteam.htm) web app.  Build rosters. Browse factions, killteams, and operatives. Run games with CP/VP/TP and wound trackers.
 
 ## Tabletop Simulator (TTS)
