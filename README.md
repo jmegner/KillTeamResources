@@ -83,7 +83,8 @@ If you want to learn how to play Kill Team via TTS, then follow [this guide](TTS
 Discord servers have lots of discussion and collaboration and are the best way to find a TTS opponent to play with.
 
 * [Glass Half Dead](https://discord.gg/cdF3AnRVRG).
-  * Has "killteam-maths" channel that other servers don't seem to have an analogue.  
+  * Perhaps the most overall active Kill Team Discord server.
+  * Has "killteam-maths" channel that other servers don't seem to have an analogue.
 * [Command Point](https://discord.gg/7U49SugEPg).
   * Possibly the most active TTS community.
 * [The Killzone](https://discord.gg/HuKvyEeyuH).
@@ -114,7 +115,7 @@ Discord servers have lots of discussion and collaboration and are the best way t
 
 ## YouTube
 
-* [Glass Half Dead](https://www.youtube.com/channel/UCh0xW4bNI1A9DePS8BY_gug).  Instructionals/explainers, editorials, and battle reports.  Charismatic.
+* [Glass Half Dead](https://www.youtube.com/channel/UCh0xW4bNI1A9DePS8BY_gug).  Instructionals/explainers, editorials, and battle reports.  Charismatic. Wholesome.
 * [Can You Roll A Crit](https://www.youtube.com/c/CanYouRollaCrit).  Editorials and battle reports.  [Won a Warhammer World Kill Team tournament](https://canyourollacrit.com/2021/10/28/warhammer-world-kill-team-october-2021-event-review/).
 * [Command Point](https://www.youtube.com/c/CommandPoint). Commentary/editorials, tier lists, TTS tournament coverage.
 * [GFN Gaming](https://www.youtube.com/c/GFNGaming).  Often praised for high-quality battle reports.
