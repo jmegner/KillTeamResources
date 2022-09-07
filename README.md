@@ -110,7 +110,7 @@ Discord servers have lots of discussion and collaboration and are the best way t
   * [Kill Team Buy Sell Trade](https://www.facebook.com/groups/646533622386292/)
   * [40K Skirmish Community - Kill Team And More](https://www.facebook.com/groups/ShadowWarArmageddon/) includes Necromunda and other games.
 * Reddit
-  * [KillTeam](https://www.reddit.com/r/killteam/) and [with Hobby flair filtered out](https://www.reddit.com/r/killteam/search/?q=NOT%20flair%3AHobby&restrict_sr=1&sort=new).  
+  * [KillTeam](https://www.reddit.com/r/killteam/) and [with Hobby flair filtered out](https://www.reddit.com/r/KillTeam/search/?q=(NOT%20flair%3A%27Hobby%27)&restrict_sr=1&sort=new).  
   * [CompetitiveWH40K](https://www.reddit.com/r/CompetitiveWH40k/) sometimes has Kill Team material.
 
 ## YouTube
