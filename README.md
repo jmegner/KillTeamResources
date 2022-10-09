@@ -64,6 +64,7 @@ If you want to learn how to play Kill Team via TTS, then follow [this guide](TTS
 * TTS Mods, Maps And Tournament Packs
     * [KT Map Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2577079549).  List of maps, including [KT Map Base Table](https://steamcommunity.com/sharedfiles/filedetails/?id=2574389665).
     * [Kill Team Championships 2022 Map Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2704352000).
+    * [CPTS Spring Map Pack](https://steamcommunity.com/workshop/filedetails/?id=2780116850)
 * TTS Mods, Factions/Teams/Operatives
   * [All Kill Teams In Boxes](https://steamcommunity.com/sharedfiles/filedetails/?id=2699529917) with 18 pictured boxes but maybe there's 20+ factions ([older faction mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2646420609)?).  The models are possibly "already scripted with KT Command Node".
   * [KT2 Pathfinder Kill Team](https://steamcommunity.com/sharedfiles/filedetails/?id=2736837891).  Description says it also contains Stealth Suits.
