@@ -106,8 +106,8 @@ There are all sorts of things built into KT Map base: a scoreboard, ways to load
 
 The KT Map Base has a dice rolling area.  To use it...
 
-- Click one of the {1D, 2D, 3D, 4D, 5D, 6D} buttons to clear the rolling area of dice and to place that many dice on the rolling area.  The dice will be selected.
-- Click "ROLL" button to roll the selected dice.  The dice will arrange themselves by rolled value.
+- Click one of the {1D, 2D, 3D, 4D, 5D, 6D} buttons to clear the rolling area of dice and to place that many dice on the rolling area.  The dice will be selected.  If you enable "Auto Roll", the dice will also be rolled too.
+- Clicking the "ROLL" button will roll the *selected* dice on the rolling area.  The dice will arrange themselves by rolled value.
 - To reroll, click one of the appropriate {Low, 1, 2-, 3-, 4-, 5-} buttons to select which dice to reroll, and then click the "ROLL" button to reroll the selected dice.
   - For Ceaseless, you'll want to use the `1` button to select all the 1s to reroll.
   - For Balanced, you may want to use the `Low` button to select one lowest-valued die.
