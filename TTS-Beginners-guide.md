@@ -100,7 +100,20 @@ Speaking of tokens, you can now drop tokens from next to the terrain on to your 
 
 ## KT Map Base Features
 
-There are all sorts of things built into KT Map base: a scoreboard, ways to load missions and their objectives, showing and hiding deployment zones, tokens, dice rollers, and all sorts of good stuff. These will be added to this guide shortly. Thankfully, they are fairly self-explanitory, so just click on things that seem to make sense.
+There are all sorts of things built into KT Map base: a scoreboard, ways to load missions and their objectives, showing and hiding deployment zones, tokens, dice rollers, and all sorts of good stuff. These will be added to this guide shortly. Thankfully, they are fairly self-explanatory, so just click on things that seem to make sense.
+
+### Dice Roller
+
+The KT Map Base has a dice rolling area.  To use it...
+
+- Click one of the {1D, 2D, 3D, 4D, 5D, 6D} buttons to clear the rolling area of dice and to place that many dice on the rolling area.  The dice will be selected.
+- Click "ROLL" button to roll the selected dice.  The dice will arrange themselves by rolled value.
+- To reroll, click one of the appropriate {Low, 1, 2-, 3-, 4-, 5-} buttons to select which dice to reroll, and then click the "ROLL" button to reroll the selected dice.
+  - For Ceaseless, you'll want to use the `1` button to select all the 1s to reroll.
+  - For Balanced, you may want to use the `Low` button to select one lowest-valued die.
+  - For Relentless, the appropriate button depends on your BS/WS.  If you have BS=3+, you'd use the `2-` button to select all 1s and 2s for reroll.
+- If you used KT Command Node, you can right-click on a model and select one of its weapon profiles to roll the appropriate number of dice.
+
 
 ## Play the game!
 
@@ -116,3 +129,9 @@ When you are starting a game, you will follow these steps:
 6. Play!
 
 If you are joining someone else's game, you can skip the first two steps. Have fun!
+
+## Some TTS/KT Interface Tips
+
+Mousing over a model and pressing `R` will toggle distance rings of {1, 2, 3, 6} inches of the traditional colors.  You can also mouse over a model and type a digit and a distance ring of that many inches will appear.  Type `0` to hide the distance ring.
+
+Usually after your finish a move, you should right-click on the moved model and select "Save place".  The benefit of this is so that if the model gets bumped you can right-click and select "Load place" to put the model back at the saved place.  Also great for trying out moves with confidence and ease on undoing them precisely.
