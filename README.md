@@ -8,7 +8,7 @@ Guides and other documents in markdown format are also welcome to become part of
 ## Rules And Factions, For Human Consumption
 
 * [Wahapedia](https://wahapedia.ru/kill-team2/the-rules/introduction/) web site.  The best resource for rules and team info.  Very nice layout, linking, and hover-info-boxes. If this list could only have one link, it would be to Wahapedia.
-* [ktdash](https://ktdash.app/killteam.htm) web app.  Build rosters. Browse factions, killteams, and operatives. Run games with CP/VP/TP and wound trackers.
+* [ktdash](https://ktdash.app/) web app.  Build rosters. Browse factions, killteams, and operatives. Run games with CP/VP/TP and wound trackers.
 
 
 ## Rules And Factions, For Programmatic Consumption
