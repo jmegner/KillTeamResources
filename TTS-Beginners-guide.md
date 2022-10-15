@@ -135,3 +135,5 @@ If you are joining someone else's game, you can skip the first two steps. Have f
 Mousing over a model and pressing `R` will toggle distance rings of {1, 2, 3, 6} inches of the traditional colors.  You can also mouse over a model and type a digit and a distance ring of that many inches will appear.  Type `0` to hide the distance ring.
 
 Usually after your finish a move, you should right-click on the moved model and select "Save place".  The benefit of this is so that if the model gets bumped you can right-click and select "Load place" to put the model back at the saved place.  Also great for trying out moves with confidence and ease on undoing them precisely.
+
+To measure distance while moving a model, you can right-click on a model, select "Toggles" menu, then checkmark "Measure Movement".  You also have to set your ruler mode to Auto (instead of Free) for it to work.
