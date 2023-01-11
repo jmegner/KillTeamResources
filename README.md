@@ -1,7 +1,7 @@
-# Kill Team Resources
-A list of resources for Kill Team (2021 edition, under the Warhammer 40k franchise).
+# Recursos Kill Team
+Una lista de recursos para Kill Team (edición 2021, bajo la franquicia Warhammer 40k).
 
-Suggestions/additions are welcome, including descriptions.  Don't be shy if you are a content creator and want to be on this list or want a more complete description.  You can comment on the [announcement reddit thread](https://www.reddit.com/r/killteam/comments/sbw0vw/kill_team_resources_list/), make a [GitHub issue](https://github.com/jmegner/KillTeamResources/issues), or make a [GitHub pull request](https://github.com/jmegner/KillTeamResources/pulls).
+Sugerencias/adiciones son bienvenidas, incluyendo descripciones.
 
 Guides and other documents in markdown format are also welcome to become part of this repo directly, like [veddermatic](https://github.com/veddermatic)'s [TTS Kill Team Guide](TTS-Beginners-guide.md).
 
