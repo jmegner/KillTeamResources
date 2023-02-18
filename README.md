@@ -42,6 +42,7 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 * [dataslate](https://dataslate.rocks/) web app.  Turn BattleScribe rosters into printable datasheets.
 * [ktdash](https://ktdash.app/) web app.  Build rosters. Browse factions, killteams, and operatives. Run games with CP/VP/TP and wound trackers.
 * [ktcg/KillTeamCardGenerator](https://ktcg.netlify.app/) web app ([source](https://github.com/magralol/ktcg)).  Make custom operative data cards.
+* [Phil-Team](https://ko-fi.com/phil_g/shop) printable data card PDFs. Covers operatives, equipment, ploys, abilities etc.
 
 ## Buying Guides
 
