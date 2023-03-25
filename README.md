@@ -31,6 +31,7 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 
 ## Cheatsheets and Reference Sheets
 
+* [Official Lite rules](https://www.warhammer-community.com/wp-content/uploads/2022/08/ekD0GG2pTHlYba0G.pdf) v1.0 from [Warhammer Community](https://www.warhammer-community.com/downloads/#kill-team).
 * [XT's Ultimate KT Doc](https://docs.google.com/document/d/1wAl4sNYcqybYCYANLbLFYbXuvRfp1PNPGlzr_YGWvtY).  Nice faction cheatsheets.  Has links to other resources.
 * [ChronoDK Rules Reference Sheet](https://drive.google.com/file/d/1kgToAvu_TXRmAQIA1kkdLKih4rCJOE6u). Rules one-pager.
 * [Armagonix Rules Reference Sheet](https://www.reddit.com/r/killteam/comments/pck4o4/after_some_playtesting_i_have_improved_my_kt21/).  Rules one-pager.
