@@ -104,6 +104,7 @@ Discord servers have lots of discussion and collaboration and are the best way t
   * [Attack Sequence article](https://www.goonhammer.com/hammer-of-math-kill-team-attack-sequence/) which has die outcome probability tables.
 * [Can You Roll A Crit](https://canyourollacrit.com/tag/kill-team/).
 * [Bad Theory Hammer](https://badtheoryhammer.blogspot.com/).
+* [Tabletop Campaign Repository: KT21 Downloads](https://tcrepo.com/downloads/tag/kt-21/) provides homebrew & official KT21 downloads (missions, rules, references, & more).
 
 ## Forums/MessageBoards
 
