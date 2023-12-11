@@ -50,7 +50,7 @@ You can now load your models into any game you play easily.
 3. Ensure there are no errors on your roster (everyone has guns / options selected)
 4. You _can_ add equipment at this point, but as of this writing, it is probably best to leave it off for now.
 5. Once your roster is error free and full, save it as a BattleScribe roster file.
-6. Go to the [Data Team web app](https://datateam.app/Encode) and load your roster file
+6. Go to the [Data Team web app](https://datateam.app/Encode) (or [this mirror](https://datateamapp.azurewebsites.net/Encode) if it isn't working) and load your roster file.
 7. After a moment, it will say `Your Roster Code is:`
 8. Copy and paste that Roster Code in a text file or write it down in case it magically leaves your clipboard.
 
