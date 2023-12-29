@@ -128,6 +128,7 @@ Discord servers have lots of discussion and collaboration and are the best way t
 * [Glacial Geek](https://www.youtube.com/c/TheGlacialGeek).  Also does WH40K.  Hobby side and battle reports.
 * [Guerrilla Miniature Games](https://www.youtube.com/c/GuerrillaMiniatureGames) and its [Kill Team playlist](https://www.youtube.com/playlist?list=PLzrPO7KIAtwXCRg5uMZNrWVnOIwgWWhfi).  Hobby side and battle reports for many games.
 * [Mountainside Tabletop](https://www.youtube.com/@MountainsideTabletop). Immersive battle reports of high production value.
+* [Six-Sided Legion](https://www.youtube.com/@Six-SidedLegion).  Mostly battle reports.
 
 ## Podcasts
 
