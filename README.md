@@ -26,7 +26,6 @@ Things that calculate or simulate various aspects of gameplay, like various stat
 * Spreadsheets (often with significant inaccuracies, especially for shooting damage)
   * [KT21](https://docs.google.com/spreadsheets/d/1Sa76-kNCVpLe0sLMEryo7l7QdZZOBqOrkhnENj55Mtc).  Rough estimates of how weapons do against various Sv values.
   * [Weapon Comparison X To Kill](https://docs.google.com/spreadsheets/d/1heVsyiowkdlBobygPURhX3d-WCSSyXbB).  Incomplete.  Chances to kill in 1 or 2 hits during a fighting attack.
-  * [KillTeam Weapon MathHammer V1.0](https://docs.google.com/spreadsheets/d/1JJQqxJJf6riibwFHasEjliEhitLuKQiGWUBYZ-lR4io/edit#gid=1040039477).  Lots of entries for various operatives, but pretty inaccurate (calculated average damage can be ~30% of actual average damage).
 
 ## Cheatsheets and Reference Sheets
 
