@@ -21,7 +21,8 @@ Guides and other documents in markdown format are also welcome to become part of
 
 Things that calculate or simulate various aspects of gameplay, like various statistics of a shooting or fighting attack.
 
-* [ktcalc/KT21Calculator](https://jmegner.github.io/KT21Calculator/) web app ([source](https://github.com/jmegner/KT21Calculator)).  Uses exact math to calculate outcome probabilities of shooting and fighting attacks.
+* [ktcalc.com](https://ktcalc.com) web app.  Forked from old ktcalc.
+* [ktcalc/KT21Calculator](https://jmegner.github.io/KT21Calculator/) web app ([source](https://github.com/jmegner/KT21Calculator)).  Uses exact math to calculate outcome probabilities of shooting and fighting attacks.  The name contains "21" but it was updated to 2024 edition.
 * [ktcomp/KillTeamComparativeSimulator](https://denampavel.shinyapps.io/KTSim/) web app ([source](https://github.com/DenamPavel/KillTeamSim)).  Monte Carlo simulator for comparing shooting attacks of two different attackers against a common defender.
 * Spreadsheets (often with significant inaccuracies, especially for shooting damage)
   * [KT21](https://docs.google.com/spreadsheets/d/1Sa76-kNCVpLe0sLMEryo7l7QdZZOBqOrkhnENj55Mtc).  Rough estimates of how weapons do against various Sv values.
