@@ -21,6 +21,8 @@ Guides and other documents in markdown format are also welcome to become part of
 
 Things that calculate or simulate various aspects of gameplay, like various statistics of a shooting or fighting attack.
 
+* [KTCalculator+ for Android](https://play.google.com/store/apps/details?id=com.sunnyckh.ktcalculator)
+* [KTCalculator+ for iOS](https://apps.apple.com/us/app/ktcalculator/id6802795546)
 * [ktcalc.com](https://ktcalc.com) web app.  Forked from old ktcalc.
 * [ktcalc/KT21Calculator](https://jmegner.github.io/KT21Calculator/) web app ([source](https://github.com/jmegner/KT21Calculator)).  Uses exact math to calculate outcome probabilities of shooting and fighting attacks.  The name contains "21" but it was updated to 2024 edition.
 * [ktcomp/KillTeamComparativeSimulator](https://denampavel.shinyapps.io/KTSim/) web app ([source](https://github.com/DenamPavel/KillTeamSim)).  Monte Carlo simulator for comparing shooting attacks of two different attackers against a common defender.
